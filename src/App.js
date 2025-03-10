@@ -15,7 +15,11 @@ function App() {
       <br />
       <footer>
         This project was coded by Magda Tudora and is open sourced on{" "}
-        <a href="https://github.com/Magda0006/weather-react" target="_blank">
+        <a
+          href="https://github.com/Magda0006/weather-react"
+          target="_blank"
+          rel="noreferrer"
+        >
           GitHub
         </a>
       </footer>
