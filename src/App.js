@@ -12,8 +12,9 @@ function App() {
         <Overview />
         <Temperature />
       </div>
+      <br />
       <footer>
-        this project was coded by Magda Tudora and is open sourced on{" "}
+        This project was coded by Magda Tudora and is open sourced on{" "}
         <a href="https://github.com/Magda0006/weather-react" target="_blank">
           GitHub
         </a>
